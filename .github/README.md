@@ -2,7 +2,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/saiyudh?style=social)](https://github.com/saiyudh)
 [![GitHub stars](https://img.shields.io/github/stars/saiyudh?style=social)](https://github.com/saiyudh)
-[![Twitter Follow](https://img.shields.io/twitter/follow/saiyudh?style=social)](https://twitter.com/saiyudh)
 
 ## 🚀 **Senior Python Architect** | AI/ML Engineer | Full-Stack Developer
 
@@ -45,7 +44,6 @@ Building production-ready AI systems with Python, Google Gemini, and cloud techn
 ![REST API](https://img.shields.io/badge/REST%20API-Expert-blue?style=flat)
 ![GraphQL](https://img.shields.io/badge/GraphQL-Expert-E10098?style=flat&logo=graphql)
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-Expert-25D366?style=flat&logo=whatsapp)
-![Stripe](https://img.shields.io/badge/Stripe-Integration-626262?style=flat&logo=stripe)
 
 ---
 
@@ -63,26 +61,7 @@ Building production-ready AI systems with Python, Google Gemini, and cloud techn
 
 **Tech:** Python | Gemini AI | Flask | Google Sheets | Meta API | Docker | Railway
 
-![Job Hunter](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
-![Stars](https://img.shields.io/github/stars/saiyudh/job-hunter?style=social)
-
----
-
-### **📊 Other Notable Projects**
-
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [Data Pipeline](https://github.com/saiyudh/data-pipeline) | ETL automation with Spark | ⭐⭐⭐ |
-| [ML Model API](https://github.com/saiyudh/ml-api) | FastAPI + TensorFlow | ⭐⭐ |
-| [Cloud Infrastructure](https://github.com/saiyudh/cloud-infra) | Terraform + AWS + K8s | ⭐⭐⭐⭐ |
-
----
-
-## 📈 **GitHub Statistics**
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiyudh&show_icons=true&theme=radical)](https://github.com/saiyudh)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiyudh&layout=compact&theme=radical)](https://github.com/saiyudh)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 
 ---
 
@@ -114,31 +93,30 @@ Building production-ready AI systems with Python, Google Gemini, and cloud techn
 
 ---
 
+## 📊 **What I'm Working On**
+
+- 🤖 Building next-gen AI-powered automation tools
+- 🎯 Multi-LLM routing system
+- 📱 Auto-Apply job application system
+- 📊 Real-time analytics dashboard
+- 🔧 Open-source contributions
+
+---
+
 ## 🔗 **Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/saiyudh)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/saiyudh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/saiyudh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:saiyudh.mannan@gmail.com)
-
----
-
-## 📊 **Activity**
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saiyudh&theme=radical)
-
----
-
-**💡 Currently working on:** Building next-gen AI-powered automation tools
-
-**🎯 Next Projects:** Multi-LLM routing, Auto-Apply system, Real-time analytics dashboard
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by Saiyu**
+**Made with ❤️ by Saiyu Mannan**
 
 ⭐ If you like my projects, give them a star! ⭐
+
+**Let's build amazing things together!** 🚀
 
 </div>
